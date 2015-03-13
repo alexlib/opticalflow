@@ -9,4 +9,5 @@ For more information about the principle and experimental result of this project
 
 
 How to run my code:
-Just open the folder in MATLAB and run file runflow.m. To test different images pairs, just change in input file name to the 'imread' function at the beginning of runflow.m.
+
+Just open the folder in MATLAB and run file runflow.m. To test different images pairs, just change input file name to the 'imread' function at the beginning of runflow.m.
